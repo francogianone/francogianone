@@ -83,20 +83,11 @@ ERP a medida para imprenta y librería: órdenes de trabajo, presupuestos, factu
 
 > 🔒 Ambos repositorios son privados por tratarse de sistemas productivos de clientes. Con gusto comparto capturas, una demo o acceso puntual ante consultas.
 
----
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true" alt="Lenguajes más usados" />
-</p>
 
 ---
 
 <p align="center">
   📫 <b>¿Charlamos?</b> Escribime a francogianone@gmail.com o por
-  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/franco-gianone-02527a206/">LinkedIn</a>
 </p>
