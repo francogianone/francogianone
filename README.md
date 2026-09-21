@@ -9,7 +9,7 @@
 <p align="center">
   📍 Concepción del Uruguay, Entre Ríos, Argentina &nbsp;•&nbsp;
   📧 francogianone@gmail.com &nbsp;•&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/franco-gianone-02527a206/">LinkedIn</a>
+  🔗 <a href="https://www.linkedin.com/in/franco-gianone-02527a206/">LinkedIn</a>
 </p>
 
 ---
